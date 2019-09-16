@@ -1,6 +1,6 @@
 public class PersonInfo1 {
 
-    public static String firstName = "Leisha";
+    public static String firstName = "Mouna";
     public static String lastName = "Baker";
     public static int studentNo = 338299;
     public static String description = "Likes to take pictures";
